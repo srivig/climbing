@@ -17,6 +17,7 @@ Climbing Gears:
 - First aid kit
 - Rope bags 
 - Guide book
+- Finget tape
 
 Other Gears:
 - Headlamps 
@@ -27,6 +28,15 @@ Clothing and accessories:
 - Rain jacket
 - Fleece
 
+Food:
+- Adequent water
+- Breads
+- Gas stove (Like Primus)
+- Mugs
+- Pan
+- Cutleries (knives, spoons & forks)
+- Grill/Flat Stone for the BBQ
+
 Other items: 
 
 
@@ -34,13 +44,20 @@ Safety:
 
 
 Camping:
+- Tents
+- Sleeping bags
+- Sleeping Mats
+- Make bookings in advance
+- Check if the site allows Campfire & Music
 
 
 Transport: 
-
+- Phone Holder
+- Download offline maps on google
+- Install TomTom navigation app
 
 First Aid:
-
+- Paracetamol / Nurofen
 
 Location advice: 
 
