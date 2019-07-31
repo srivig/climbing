@@ -17,7 +17,7 @@ Climbing Gears:
 - First aid kit
 - Rope bags 
 - Guide book
-- Finget tape
+- Finger tape
 
 Other Gears:
 - Headlamps 
@@ -38,7 +38,10 @@ Food:
 - Grill/Flat Stone for the BBQ
 
 Other items: 
-
+- Paste and brush
+- Shower gel
+- Towel
+- Extrapair of socks
 
 Safety: 
 
